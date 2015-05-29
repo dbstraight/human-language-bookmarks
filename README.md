@@ -7,7 +7,10 @@ A curated list of resoruces for learners of human languages and linguistics. Pul
 ###German
 
 - [Deutsche Welle](http://www.dw.de/learn-german/s-2469)
+- [Digitale Wörterbuch der deutschen Sprache](http://dwds.de/)
+- [Hammer Grammar](https://www.youtube.com/playlist?list=PL2fCGQa2PY7CDJkKsRiYNC-7XxiU4I10f)
 - [LEO](http://www.leo.org/ende/index_de.html)
+- [Slow German](http://slowgerman.com/)
 - [Universität Leipzig Wortschatz](http://wortschatz.uni-leipzig.de/)
 
 ###Mandarin
