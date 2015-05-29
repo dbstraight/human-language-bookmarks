@@ -1,5 +1,5 @@
 # human-language-bookmarks
-A curated list of resoruces for learners of human languages and linguistics. Pull requests are welcome.
+A curated list of resources for learners of human languages and linguistics. Pull requests are welcome.
 
 - [German](#german)
 - [Hindi/Urdu](#hindiurdu)
