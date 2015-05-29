@@ -2,6 +2,7 @@
 A curated list of resoruces for learners of human languages and linguistics. Pull requests are welcome.
 
 - [German](#german)
+- [Hindi/Urdu](#hindiurdu)
 - [Mandarin](#mandarin)
 
 ###German
@@ -12,6 +13,10 @@ A curated list of resoruces for learners of human languages and linguistics. Pul
 - [LEO](http://www.leo.org/ende/index_de.html)
 - [Slow German](http://slowgerman.com/)
 - [Universität Leipzig Wortschatz](http://wortschatz.uni-leipzig.de/)
+
+###Hindi/Urdu
+
+- [Hindi Urdu Flagship Resources](http://hindiurduflagship.org/resources/learning-teaching/glossaries-alive/)
 
 ###Mandarin
 
