@@ -22,6 +22,7 @@ A curated list of resources for learners of human languages and linguistics. Pul
 
 ###Mandarin
 
+- [Melnyks Chinese](http://www.melnyks.com/)
 - [Pitch Perfect Pinyin](http://www.laits.utexas.edu/ppp/)
 
 ###Spanish
