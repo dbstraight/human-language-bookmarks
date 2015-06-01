@@ -3,6 +3,7 @@ A curated list of resources for learners of human languages and linguistics. Pul
 
 - [German](#german)
 - [Hindi/Urdu](#hindiurdu)
+- [Indonesian](#indonesian)
 - [Mandarin](#mandarin)
 - [Spanish](#spanish)
 
@@ -19,6 +20,10 @@ A curated list of resources for learners of human languages and linguistics. Pul
 ###Hindi/Urdu
 
 - [Hindi Urdu Flagship Resources](http://hindiurduflagship.org/resources/learning-teaching/glossaries-alive/)
+
+###Indonesian
+
+- [Learning Indonesian](http://www.learningindonesian.com/)
 
 ###Mandarin
 
